@@ -39,8 +39,10 @@ Main Task
     ![image](https://github.com/Hitashikankran/MST/assets/156875388/6dd834c8-81f8-428f-8cd8-3ecec8559b38)
 
 11. Next, add the changed file, and notice how it moves to the staging area in the status output. Also observe that the diff command you did before using add now gives no output. Why not? What do you have to do to see a diff of the things in the staging area? (Hint: review the slides if you can’t remember.)
-12. git add file 
-13. Now without committing, make another change to the same file you changed in step 10. Look at the status output, and the diff output. Notice how you can have both staged and unstaged changes, even when you are talking about a single file. Observe the difference when you use the add command to stage the latest round of changes. Finally, commit them. You should now have started to get a feel for the staging area.
-14. Use the log command in order to see all of the commits you made so far.
-18. Use the show command to look at an individual commit. How many characters of the commit identifier can you get away with typing at a minimum?
-19. Make a couple more commits, at least one of which should add an extra file.
+ git add file 
+12. Now without committing, make another change to the same file you changed in step 10. Look at the status output, and the diff output. Notice how you can have both staged and unstaged changes, even when you are talking about a single file. Observe the difference when you use the add command to stage the latest round of changes. Finally, commit them. You should now have started to get a feel for the staging area.
+13. Use the log command in order to see all of the commits you made so far.
+14. Use the show command to look at an individual commit. How many characters of the commit identifier can you get away with typing at a minimum?
+15. Make a couple more commits, at least one of which should add an extra file.
+16. ![image](https://github.com/Hitashikankran/MST/assets/156875388/5700239c-e065-4d62-8216-77a637603ade)
+
